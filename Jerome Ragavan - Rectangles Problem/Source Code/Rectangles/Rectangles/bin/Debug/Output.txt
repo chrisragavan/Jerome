@@ -1,0 +1,4 @@
+Rectangle:1	Width:57	Height:93	X:10	Y:150
+Rectangle:2	Width:59	Height:40	X:67	Y:203
+Rectangle:3	Width:42	Height:66	X:126	Y:177
+

@@ -1,0 +1,25 @@
+c:\users\christopher\documents\visual studio 2010\Projects\Rectangles\Rectangles\bin\Debug\Rectangles.exe
+c:\users\christopher\documents\visual studio 2010\Projects\Rectangles\Rectangles\bin\Debug\Rectangles.pdb
+c:\users\christopher\documents\visual studio 2010\Projects\Rectangles\Rectangles\obj\x86\Debug\Rectangles.Form1.resources
+c:\users\christopher\documents\visual studio 2010\Projects\Rectangles\Rectangles\obj\x86\Debug\Rectangles.Properties.Resources.resources
+c:\users\christopher\documents\visual studio 2010\Projects\Rectangles\Rectangles\obj\x86\Debug\Rectangles.csproj.GenerateResource.Cache
+c:\users\christopher\documents\visual studio 2010\Projects\Rectangles\Rectangles\obj\x86\Debug\Rectangles.exe
+c:\users\christopher\documents\visual studio 2010\Projects\Rectangles\Rectangles\obj\x86\Debug\Rectangles.pdb
+C:\Users\Christopher\documents\visual studio 2010\Projects\Rectangles\Rectangles\obj\x86\Debug\Rectangles.csprojResolveAssemblyReference.cache
+C:\Users\Christopher\documents\visual studio 2010\Projects\Rectangles\Rectangles\bin\Debug\Rectangles.exe.manifest
+C:\Users\Christopher\documents\visual studio 2010\Projects\Rectangles\Rectangles\bin\Debug\Rectangles.application
+C:\Users\Christopher\documents\visual studio 2010\Projects\Rectangles\Rectangles\obj\x86\Debug\Rectangles.exe.manifest
+C:\Users\Christopher\documents\visual studio 2010\Projects\Rectangles\Rectangles\obj\x86\Debug\Rectangles.application
+C:\Users\Jerome\Downloads\Jerome Ragavan - Derivco Assesment\Jerome Ragavan - Rectangles Problem\Source Code\Rectangles\Rectangles\obj\x86\Debug\Rectangles.exe
+C:\Users\Jerome\Downloads\Jerome Ragavan - Derivco Assesment\Jerome Ragavan - Rectangles Problem\Source Code\Rectangles\Rectangles\obj\x86\Debug\Rectangles.pdb
+C:\Users\Jerome\Downloads\Jerome Ragavan - Derivco Assesment\Jerome Ragavan - Rectangles Problem\Source Code\Rectangles\Rectangles\bin\Debug\Rectangles.exe
+C:\Users\Jerome\Downloads\Jerome Ragavan - Derivco Assesment\Jerome Ragavan - Rectangles Problem\Source Code\Rectangles\Rectangles\bin\Debug\Rectangles.pdb
+C:\Users\Jerome\Downloads\Jerome Ragavan - Derivco Assesment\Jerome Ragavan - Rectangles Problem\Source Code\Rectangles\Rectangles\obj\x86\Debug\Rectangles.csprojResolveAssemblyReference.cache
+C:\Users\Jerome\Downloads\Jerome Ragavan - Derivco Assesment\Jerome Ragavan - Rectangles Problem\Source Code\Rectangles\Rectangles\obj\x86\Debug\Rectangles.Form1.resources
+C:\Users\Jerome\Downloads\Jerome Ragavan - Derivco Assesment\Jerome Ragavan - Rectangles Problem\Source Code\Rectangles\Rectangles\obj\x86\Debug\Rectangles.Properties.Resources.resources
+C:\Users\Jerome\Downloads\Jerome Ragavan - Derivco Assesment\Jerome Ragavan - Rectangles Problem\Source Code\Rectangles\Rectangles\obj\x86\Debug\Rectangles.csproj.GenerateResource.Cache
+C:\Users\Jerome\Downloads\Jerome Ragavan - Derivco Assesment\Jerome Ragavan - Rectangles Problem\Source Code\Rectangles\Rectangles\bin\Debug\Rectangles.exe.manifest
+C:\Users\Jerome\Downloads\Jerome Ragavan - Derivco Assesment\Jerome Ragavan - Rectangles Problem\Source Code\Rectangles\Rectangles\bin\Debug\Rectangles.application
+C:\Users\Jerome\Downloads\Jerome Ragavan - Derivco Assesment\Jerome Ragavan - Rectangles Problem\Source Code\Rectangles\Rectangles\obj\x86\Debug\Rectangles.TrustInfo.xml
+C:\Users\Jerome\Downloads\Jerome Ragavan - Derivco Assesment\Jerome Ragavan - Rectangles Problem\Source Code\Rectangles\Rectangles\obj\x86\Debug\Rectangles.exe.manifest
+C:\Users\Jerome\Downloads\Jerome Ragavan - Derivco Assesment\Jerome Ragavan - Rectangles Problem\Source Code\Rectangles\Rectangles\obj\x86\Debug\Rectangles.application
